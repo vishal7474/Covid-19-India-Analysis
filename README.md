@@ -16,4 +16,4 @@ https://prod-apnortheast-a.online.tableau.com/t/vishalnitnaware/views/Covid_anal
 
 
 Screenshot : 
-![image](https://github.com/vishal7474/Covid-19-India-Analysis/assets/76614698/700229db-a3b2-4ed7-b16c-9e01b4350cf6)
+![image](https://github.com/vishal7474/Covid-19-India-Analysis/assets/76614698/54999e01-50c2-4501-a2c3-7a40a3df1d60)
